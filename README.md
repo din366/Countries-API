@@ -1,3 +1,8 @@
+<h1 style="text-align: center;">Countries info API</h1>
+
+<img style="text-align: center; max-width: 600px;"
+src="https://github.com/din366/images/blob/main/readme%20images/Countries-api.jpg" alt="project image">
+
 Что реализовано:
 
 1. React, Redux, Thunk, Styled Components;
